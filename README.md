@@ -6,7 +6,7 @@ Communication between Server Implementations is project to implement different c
 
 ## Highlights
 
-<img src="https://imgur.com/t/docker/WFsXUoI" width="150px" align="right" hspace="30px" vspace="30px">
+<img src="https://i.imgur.com/uCArO28.png" width="150px" align="right" hspace="30px" vspace="30px">
 
 1. Provides `docker-compose` file for quick initialization
 
